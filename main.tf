@@ -1,6 +1,4 @@
-#
 # stateファイルの格納先
-#
 terraform {
   required_providers {
     azurerm = {
